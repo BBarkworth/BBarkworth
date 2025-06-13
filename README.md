@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Ben, and I'm currently working as a software engineer as part of a graduate scheme.
 
-- 🔭 I’ve worked on various projects across languages including C, Javascript and Python with the aim of building up my competency.
-- 📫 How to reach me: benjamintbarkworth@gmail.com
+- Within a production environment, I've worked on projects covering Scala, Java, Spring Boot and react
+- In a personal capacity, I've completed courses and projects across C, Javascript, Node, React, SQL and Python to build up my competency
+- How to reach me: benjamintbarkworth@gmail.com
 
